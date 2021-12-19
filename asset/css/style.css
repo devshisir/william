@@ -82,6 +82,8 @@ main code start here
         text-transform: uppercase; }
         #header__top .header__right__content .nav__box ul li a:hover {
           color: #941319; }
+    #header__top .header__right__content .nav__box ul .active a {
+      color: #941319; }
     #header__top .header__right__content .cart__link {
       margin-left: 100px; }
       #header__top .header__right__content .cart__link a {
@@ -288,6 +290,8 @@ main code start here
         padding: 10px 0px; }
         #mobile__toggle__menu .mobile__menu__nav ul li a:hover {
           color: #941319; }
+    #mobile__toggle__menu .mobile__menu__nav ul .active a {
+      color: #941319; }
   #mobile__toggle__menu .add__cart__mobile__menu {
     text-align: center; }
     #mobile__toggle__menu .add__cart__mobile__menu a {

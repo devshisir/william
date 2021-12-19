@@ -59,6 +59,11 @@ main code start here
                        }
                    }
                }
+               .active{
+                    a{
+                        color: $mainColor;
+                    }
+               }
            }
        }
        .cart__link{
@@ -342,6 +347,11 @@ main code start here
                     &:hover{
                         color: $mainColor;
                     }
+                }
+            }
+            .active{
+                a{
+                   color: $mainColor; 
                 }
             }
         }
